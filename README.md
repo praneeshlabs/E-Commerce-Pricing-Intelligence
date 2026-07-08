@@ -104,7 +104,6 @@ The pipeline automatically:
 
 
 
-## Author
-**Praneesh B**
+## Author: **Praneesh B**
 
 
