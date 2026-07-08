@@ -2,11 +2,10 @@
 
 Develop a machine learning system that predicts product prices by understanding both product descriptions and images. The pipeline extracts structured product information from unstructured data, generates semantic representations, engineers meaningful features, and learns complex relationships between product characteristics and pricing.
 
----
 ## Multimodal Product Price Prediction
 
 An end-to-end multimodal AI pipeline that predicts product prices by combining textual product descriptions and product images. The system leverages multiple Large Language Models (LLMs), Vision Language Models (VLMs), semantic embeddings, feature engineering, and ensemble regression models to accurately estimate product prices.
----
+
 
 
 
@@ -25,7 +24,6 @@ An end-to-end multimodal AI pipeline that predicts product prices by combining t
   - Ridge Regression
 - Complete end-to-end inference pipeline
 
----
 
 ## Project Workflow
 
@@ -54,7 +52,7 @@ Product Text + Product Image
       Product Price Prediction
 ```
 
----
+
 
 ## Tech Stack
 
@@ -69,7 +67,6 @@ Product Text + Product Image
 - Pandas
 - NumPy
 
----
 
 ## Repository Structure
 
@@ -83,7 +80,6 @@ Product Text + Product Image
 └── README.md
 ```
 
----
 
 ## Results
 
@@ -96,7 +92,6 @@ The pipeline automatically:
 - Selects the best-performing model
 - Saves production-ready artifacts for inference
 
----
 
 ## Future Improvements
 
@@ -107,7 +102,7 @@ The pipeline automatically:
 - Distributed batch inference
 - Cloud deployment on AWS/GCP
 
----
+
 
 ## Author
 **Praneesh B**
